@@ -28,23 +28,8 @@ Currently, I'm expanding my knowledge in Java, software architecture, asynchrono
 ## 💻 What I Use
 
 <p align="center">
-
-<a href="https://www.jetbrains.com/idea/">
-<img src="https://skillicons.dev/icons?i=idea"/>
-</a>
-
-<a href="https://code.visualstudio.com/">
-<img src="https://skillicons.dev/icons?i=vscode"/>
-</a>
-
-<a href="https://www.java.com/">
-<img src="https://skillicons.dev/icons?i=java"/>
-</a>
-
-<img src="https://img.shields.io/badge/AntiGravity-Plugin-6A5ACD?style=for-the-badge"/>
-
+  <img src="https://skillicons.dev/icons?i=java,idea,vscode,maven,gradle" />
 </p>
-
 ---
 
 
