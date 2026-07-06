@@ -64,7 +64,7 @@ Currently, I'm expanding my knowledge in Java, software architecture, asynchrono
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://discord.com">
+<a href="https://discord.gg/8tEN2BrQ">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
